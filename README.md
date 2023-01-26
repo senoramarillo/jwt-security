@@ -38,21 +38,25 @@ Content-Type: application/json
 POST {{baseUrl}}/api/v1/auth/register
 Content-Type: application/json
 
+```
 {
 "firstname": "Frank",
 "lastname": "Miller",
 "email": "frank.miller@gmail.com",
 "password": "1234"
 }
+```
 
 ###
 POST {{baseUrl}}/api/v1/auth/authenticate
 Content-Type: application/json
 
+```
 {
 "email": "frank.miller@gmail.com",
 "password": "1234"
 }
+```
 
 # License
 This is based on [spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security)
