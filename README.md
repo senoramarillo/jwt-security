@@ -6,6 +6,7 @@ This project demonstrates the implementation of security using Spring Boot 3.0 a
 * Password encryption using BCrypt
 * Role-based authorization with Spring Security
 * Customized access denied handling
+* [jwt.io](https://jwt.io/)
 
 ## Technologies
 * Spring Boot 3.0
@@ -13,8 +14,6 @@ This project demonstrates the implementation of security using Spring Boot 3.0 a
 * JSON Web Tokens (JWT)
 * BCrypt
 * Maven
-
-[jwt.io](https://jwt.io/)
 
 ## Getting Started
 To get started with this project, you will need to have the following installed on your local machine:
