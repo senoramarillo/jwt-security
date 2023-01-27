@@ -60,5 +60,4 @@ Content-Type: application/json
 ```
 
 # License
-This is based on [spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security)
-and by Ali B. Thanks go to him for the great base.
+This is based on [spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security) by Ali B. Thanks go to him for the great base.
