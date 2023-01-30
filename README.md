@@ -1,12 +1,12 @@
 # Spring Boot 3.0 Security with JWT Implementation
-This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:
+This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). [jwt.io](https://jwt.io/)
+It includes the following features:
 
 ## Features
 * User registration and login with JWT authentication
 * Password encryption using BCrypt
 * Role-based authorization with Spring Security
 * Customized access denied handling
-* [jwt.io](https://jwt.io/)
 
 ## Technologies
 * Spring Boot 3.0
